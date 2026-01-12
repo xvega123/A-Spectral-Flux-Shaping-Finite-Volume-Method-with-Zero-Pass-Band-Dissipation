@@ -54,3 +54,8 @@ Researchers interested in the code for academic or review purposes may contact t
 
 
 *School of Mechanical Engineering, Gwangju Institute of Science and Technology (GIST), Republic of Korea*
+
+## Reference
+
+"A Spectral Flux-Shaping Finite-Volume Method with Zero Pass-Band Dissipation: A Low-Dissipation Conservative Scheme Based on Upwind Flux Splitting,"
+    *Journal of Computational Physics (JCP)*, **(Under Review)**.
